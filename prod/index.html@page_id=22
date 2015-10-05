@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="en-US">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="en-US">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="en-US">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.razoredgeknives.com/xmlrpc.php" />
+<title>Contact Us | Razor Edge Knives</title>
+<link rel="alternate" type="application/rss+xml" title="Razor Edge Knives &raquo; Feed" href="http://www.razoredgeknives.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Razor Edge Knives &raquo; Comments Feed" href="http://www.razoredgeknives.com/?feed=comments-rss2" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.razoredgeknives.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ultimate-tables-style-css'  href='http://www.razoredgeknives.com/wp-content/plugins/ultimate-tables/css/ultimate-tables.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='uaf_client_css-css'  href='http://www.razoredgeknives.com/wp-content/uploads/useanyfont/uaf.css?ver=1440442226' type='text/css' media='all' />
+<link rel='stylesheet' id='catchbox-style-css'  href='http://www.razoredgeknives.com/wp-content/themes/catch-box/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.razoredgeknives.com/wp-content/themes/catch-box/genericons/genericons.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='dark-css'  href='http://www.razoredgeknives.com/wp-content/themes/catch-box/colors/dark.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy_table_style-css'  href='http://www.razoredgeknives.com/wp-content/plugins/easy-table/themes/default/style.css?ver=1.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-content/plugins/flash-album-gallery/admin/js/swfobject.js?ver=2.2'></script>
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-content/plugins/flash-album-gallery/admin/js/swfaddress.js?ver=2.4'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.razoredgeknives.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.razoredgeknives.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://www.razoredgeknives.com/?page_id=22' />
+<link rel='shortlink' href='http://www.razoredgeknives.com/?p=22' />
+
+<!-- <meta name='Grand Flagallery' content='4.36' /> -->
+	<style>
+		/* Link color */
+		a,
+		#site-title a:focus,
+		#site-title a:hover,
+		#site-title a:active,
+		.entry-title a:hover,
+		.entry-title a:focus,
+		.entry-title a:active,
+		.widget_catchbox_ephemera .comments-link a:hover,
+		section.recent-posts .other-recent-posts a[rel="bookmark"]:hover,
+		section.recent-posts .other-recent-posts .comments-link a:hover,
+		.format-image footer.entry-meta a:hover,
+		#site-generator a:hover {
+			color: #e4741f;
+		}
+		section.recent-posts .other-recent-posts .comments-link a:hover {
+			border-color: #e4741f;
+		}
+	</style>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	<style type="text/css">
+			#site-title,
+		#site-description {
+			position: absolute !important;
+			clip: rect(1px 1px 1px 1px); /* IE6, IE7 */
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #141414; }
+</style>
+</head>
+
+<body class="page page-id-22 page-parent page-template page-template-page-fullwidth page-template-page-fullwidth-php custom-background single-author no-sidebar full-width">
+
+
+<div id="page" class="hfeed site">
+
+	 
+    
+	<header id="branding" role="banner">
+
+    	            
+    	<div id="header-content" class="clearfix">
+        
+			<div class="logo-wrap clearfix">    
+    	<div id="site-logo">
+        	<a href="http://www.razoredgeknives.com/" title="Razor Edge Knives" rel="home">
+                <img src="http://www.razoredgeknives.com/wp-content/uploads/2013/12/cropped-Header-New-11.png" width="1500" height="328" alt="Razor Edge Knives" />
+            </a>
+      	</div>
+        
+	<div id="hgroup" class="site-details with-logo"> 
+   		<h1 id="site-title"><a href="http://www.razoredgeknives.com/" title="Razor Edge Knives" rel="home">Razor Edge Knives</a></h1>
+       	<h2 id="site-description">Professional Sharpening Service</h2>
+   	</div><!-- #hgroup -->   
+
+</div><!-- .logo-wrap -->            
+		</div><!-- #header-content -->
+        
+    		<nav id="access" role="navigation">
+		<h3 class="assistive-text">Primary menu</h3>
+				<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+		<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+			
+		<div class="menu-header-container"><ul class="menu"><li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.razoredgeknives.com/">Home</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33"><a href="http://www.razoredgeknives.com/?page_id=31">Services &#038; Fees</a>
+<ul class="sub-menu">
+	<li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="http://www.razoredgeknives.com/?page_id=6">Sharpening Prices</a></li>
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://www.razoredgeknives.com/?page_id=8">Cerakoting Service</a></li>
+	<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="http://www.razoredgeknives.com/?page_id=10">Mail-In Sharpening Service</a></li>
+</ul>
+</li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://www.razoredgeknives.com/?page_id=16">Pictures &#038; Videos</a></li>
+<li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://www.razoredgeknives.com/?page_id=18">Articles</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22 current_page_item menu-item-has-children menu-item-41"><a href="http://www.razoredgeknives.com/?page_id=22">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-34" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34"><a href="http://www.razoredgeknives.com/?page_id=14">Testimonials</a></li>
+	<li id="menu-item-327" class="ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-327"><a href="http://www.razoredgeknives.com/?page_id=22">How do I get my knives sharpened?</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://www.razoredgeknives.com/?page_id=20">About Our Company</a></li>
+	<li id="menu-item-306" class="ppr-rewrite menu-item menu-item-type-post_type menu-item-object-page menu-item-306"><a href="http://www.razoredgeknives.com/?page_id=22">Contact Us</a></li>
+</ul>
+</li>
+</ul></div> 		
+			   
+		</nav><!-- #access -->
+		
+	           
+                
+	</header><!-- #branding -->
+    
+	    
+
+	        
+	<div id="main" class="clearfix">
+
+		        
+		<div id="primary">
+        
+			        
+			<div id="content" role="main">
+				
+				
+					
+<article id="post-22" class="post-22 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Contact Us</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		<div style="text-align: center;">
+<p><a href="http://www.knifeplanet.net/razor-edge-knives-interview/" target="_blank"><img class="size-full wp-image-5274 alignleft" src="http://www.knifeplanet.net/wp-content/uploads/2015/08/featured-on-knifeplanet.jpg" alt="knifeplanet.net" width="125" height="125" /></a><span style="font-family: 'Book Antiqua', Palatino; font-size: 24pt;">864-810-0656</span></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 24pt;"> <a href="mailto:info@razor-edge-knives.com">info@razor-edge-knives.com</a></span></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 18pt;">Please note that <span style="text-decoration: underline;">we do not have a store front location.</span> Our address is actually a UPS store with whom we have an arrangement for this to be a drop off &amp; pick up location. This system has worked pretty much flawlessly over the past 3-4 years that we have used it. Instructions are below&#8230; </span></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 18pt;"><iframe class="snapwidget-widget" title="Instagram Widget" src="http://snapwidget.com/in/?u=cmF6b3JlZGdla25pdmVzfGlufDEyNXwzfDN8fG5vfDV8bm9uZXxvblN0YXJ0fHllc3xubw==&amp;ve=210515" width="300" height="150" frameborder="0" scrolling="no"></iframe></span></p>
+</div>
+<div style="text-align: center;"><span style="text-decoration: underline; color: #c0c0c0; font-family: 'Book Antiqua', Palatino;"><span style="text-decoration: underline; color: #c0c0c0;"><span style="text-decoration: underline;"><span style="font-size: 24pt;">HOW TO GET KNIVES TO US:<br />
+</span></span></span></span></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="font-size: 18pt;"><span style="font-family: 'Book Antiqua', Palatino; color: #ff0000;"> </span></span><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt; color: #ff0000;">NOTE: MAIL-IN CUSTOMERS PLEASE <a style="color: #ff0000;" href="http://www.razoredgeknives.com/?page_id=10">CLICK HERE</a> FOR YOUR INSTRUCTIONS</span></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;">First, complete </span><strong><a href="https://docs.google.com/forms/d/1ekgIIQBoQdD1zVLbosOBgz7UFzW4CyOyLrdA-el-j1g/viewform?usp=send_form"><span style="font-family: 'Book Antiqua', Palatino; font-size: 12pt;">THIS FORM</span></a></strong><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;"> </span></div>
+<div style="text-align: center;"><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;">Then, place your items in a box or an envelope and drop them off at our UPS post box <span style="text-decoration: underline;"><strong>(Make sure to leave your name with your package)</strong></span>. Lastly, Email or text us that you have made the drop so we know to get by and get your blades. This is located at:</span></div>
+<div style="text-align: center;"><span style="font-family: 'Book Antiqua', Palatino;"> </span></div>
+<div>
+<p style="text-align: center;"><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;"><em><strong><span style="color: #3366ff;">The UPS Store<br />
+2541 N. Pleasantburg Dr.<br />
+Suite S<br />
+Greenville, SC 29609</span></strong></em></span></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;">(see map below). We have an arrangement with the store owner that will keep your items safe and secure, and they are quite familiar with this process. </span><span style="color: #ff0000; font-family: 'Book Antiqua', Palatino; font-size: 14pt;">Please note that pick up and drop off times for us to get your knives are on Tuesday afternoon/evenings and Thursday afternoon/evenings.</span><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;"> However, you may drop off at any time during the store hours listed below. Unless otherwise noted in the form you fill out, your blades will be dropped off on the following pick-up/drop-off day and you will be sent</span><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;"> a Paypal invoice so you can pay (note: you can use your Paypal account OR you can just click the link that says you would like to pay with a card and then enter your credit/debit card). You can also pay over the phone if you feel more comfortable w/ that. </span></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;">Please be rest assured that your knives are in good hands and that this process is set up to work flawlessly (<a href="https://plus.google.com/108553095314370000537/about?hl=en">as reflected by the reviews on our Google + page</a>).</span></p>
+</div>
+<p style="text-align: center;"><span style="text-decoration: underline; color: #c0c0c0; font-family: 'Book Antiqua', Palatino;"><span style="font-size: 24pt;">CONTACT INFORMATION:</span></span></p>
+<p>   <span style="font-size: 14pt;">  </span><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;">See that chat widget on the lower right hand side of your screen? That is the fastest, easiest thing to use to get in touch with us. It goes directly to the my cell phone and is monitored a great deal of the time.</span></p>
+<p><span style="font-family: 'Book Antiqua', Palatino; font-size: 14pt;">If there is something you have a question about and need more of a detailed answer, we can be reached either day or evening via phone call, text, or email:</span></p>
+<p style="text-align: center;"><span style="font-family: 'Book Antiqua', Palatino; font-size: 24pt;">864-810-0656<br />
+<a href="mailto:info@razor-edge-knives.com">info@razor-edge-knives.com</a></span></p>
+<div id="map-wrap"><span style="float: left; margin: 10px 10px 10px 10px;"><iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2541+North+Pleasantburg+Drive,+Greenville,+SC&amp;aq=0&amp;oq=2541+northpleasantb&amp;sll=37.0625,-95.677068&amp;sspn=39.456673,86.044922&amp;ie=UTF8&amp;hq=&amp;hnear=2541+N+Pleasantburg+Dr,+Greenville,+South+Carolina+29609&amp;t=m&amp;z=14&amp;ll=34.888216,-82.38515&amp;output=embed" width="425" height="350" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></span><br />
+<span style="font-family: 'Book Antiqua', Palatino;"> <small><a style="color: #0000ff; text-align: left;" href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=2541+North+Pleasantburg+Drive,+Greenville,+SC&amp;aq=0&amp;oq=2541+northpleasantb&amp;sll=37.0625,-95.677068&amp;sspn=39.456673,86.044922&amp;ie=UTF8&amp;hq=&amp;hnear=2541+N+Pleasantburg+Dr,+Greenville,+South+Carolina+29609&amp;t=m&amp;z=14&amp;ll=34.888216,-82.38515">View Larger Map</a></small></span></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><span style="font-family: 'Book Antiqua', Palatino;"><span style="text-decoration: underline;"><span style="font-size: 18pt;">Hours</span></span><span style="font-size: 18pt;">:</span><span style="font-size: medium;"> </span><span style="font-size: 14pt;">Monday-Friday 8:00am-6:30pm, Saturday 9:00am-2:00pm, Sunday &#8211; closed. Our scheduled pick-up times will vary at the drop off location, check with us first before making a drop if you want it back by a certain time!</span></span></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"></div>
+<div><span style="font-family: 'Book Antiqua', Palatino; font-size: xx-small; color: #333333;">Tags: online knife sharpening, mail-in knife sharpening, mail-in scissor sharpening, mail order knife sharpening, knife sharpening greenville, sc, bulk scissor sharpening service, bulk knife sharpening service.</span></div>
+			</div><!-- .entry-content -->
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+</article><!-- #post-22 -->
+
+						<div id="comments">
+	
+	
+	
+	
+</div><!-- #comments -->
+
+				
+		</div><!-- #content -->
+        
+		            
+	</div><!-- #primary -->
+    
+	    
+
+
+	</div><!-- #main -->
+
+	      
+
+	<footer id="colophon" role="contentinfo">
+		
+        
+        <div id="site-generator" class="clearfix">
+        
+            <div class="copyright">Copyright &copy; 2015 <a href="http://www.razoredgeknives.com/" title="Razor Edge Knives" ><span>Razor Edge Knives</span></a>. All Rights Reserved.</div><div class="powered"><span class="theme-name">Theme: Catch Box by </span><span class="theme-author"><a href="http://catchthemes.com/" target="_blank" title="Catch Themes">Catch Themes</a></span></div> 
+            
+        </div> <!-- #site-generator -->
+        
+	</footer><!-- #colophon -->
+    
+</div><!-- #page -->
+
+<a href="#branding" id="scrollup"></a>
+<!--Embed from Zopim Live Chat Wordpress Plugin v1.4.0-->
+  <!--Start of Zopim Live Chat Script-->
+  <script type="text/javascript">
+  window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+  d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+  _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+  $.src='//v2.zopim.com/?rgmA3Hg5B1qW08VDNKrhGTvJWG9HSELH';z.t=+new Date;$.
+  type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+  </script><script>$zopim( function() {
+})</script><!--End of Zopim Live Chat Script--><script type='text/javascript' src='http://www.razoredgeknives.com/wp-content/plugins/ultimate-tables/js/jquery.dataTables.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var qpprFrontData = {"linkData":{"http:\/\/www.razoredgeknives.com\/?page_id=325":[0,0,"http:\/\/www.razoredgeknives.com\/?page_id=22"],"http:\/\/www.razoredgeknives.com\/?page_id=304":[0,0,"http:\/\/www.razoredgeknives.com\/?page_id=22"]},"siteURL":"http:\/\/www.razoredgeknives.com","siteURLq":"http:\/\/www.razoredgeknives.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.2'></script>
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-content/themes/catch-box/js/catchbox-menu.min.js?ver=1.1.0'></script>
+<script type='text/javascript' src='http://www.razoredgeknives.com/wp-content/themes/catch-box/js/catchbox-scrollup.min.js?ver=20072014'></script>
+
+</body>
+</html>
